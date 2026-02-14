@@ -1,21 +1,25 @@
 # README
-Welcome! This repo contains a PNG you can download in a few simple clicks (even if you’ve never used GitHub before).
+
+Welcome to **RoXplode**’s UI assets repo.
+
+This is where I upload UI-related downloads for my YouTube channel — mostly PNGs (icons, UI elements, overlays, thumbnails, etc.), and sometimes other UI-based files too.
 
 ## Latest Assets
-Click the file name below to open it:
+Click any file name below to open it:
 
-- [Studs.png](./Studs.png)
+- [Studs.png](./textures/Studs.png)
 
-### Download just the PNG (recommended)
-1. Click **Studs.png** above (it will open the file page).
+
+### Download a single item (recommended)
+1. Click any asset file in **Latest Assets** above (it will open the file page).
 2. Click the **three dots (⋯)** on the top-right.
 3. Click **Download**.
-4. The PNG will save to your computer (usually in your **Downloads** folder).
+4. The file will save to your computer (usually in your **Downloads** folder).
 
 ### Optional: Download everything (ZIP)
-If you want the whole repository as one download:
+If you want all assets in one download:
 1. Click the green **Code** button.
 2. Click **Download ZIP**.
-3. Unzip/extract it, then open the folder to find `Studs.png`.
+3. Unzip/extract it, then open the folder to find the assets you want.
 
-**Tip:** If you don’t see **Download**, make sure you’re on the `Studs.png` file page (not the README).
+**Tip:** If you don’t see **Download**, make sure you’re on the asset’s file page (not the README).
