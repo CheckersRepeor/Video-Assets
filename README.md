@@ -7,7 +7,7 @@ This is where I upload UI-related downloads for my YouTube channel — mostly PN
 ## Latest Assets
 Click any file name below to open it:
 
-- [Studs.png](./textures/Studs.png)
+- [Studs.png](./Textures/Studs.png)
 
 
 ### Download a single item (recommended)
