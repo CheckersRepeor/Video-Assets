@@ -7,8 +7,8 @@ This is where I upload UI-related downloads for my YouTube channel — mostly PN
 ## Latest Assets
 Click any file name below to open it:
 
+- [GUI](./GUI)
 - [Studs.png](./Textures/Studs.png)
-
 
 ### Download a single item (recommended)
 1. Click any asset file in **Latest Assets** above (it will open the file page).
