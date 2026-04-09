@@ -1,28 +1,51 @@
 # README
 
-Welcome to **RoXplode**’s UI assets repo.
+Welcome to **RoXplode's UI Assets Repo**.
 
-This is where I upload UI-related downloads for my YouTube channel — mostly PNGs (icons, UI elements, overlays, thumbnails, etc.), and sometimes other UI-based files too.
+This repository contains UI-related downloads for my YouTube channel, including PNG assets such as icons, UI elements, overlays, thumbnails, and other similar resources.
 
-## Latest Assets
-Click any file name below to open it:
+## Browse Assets
 
-- [All Vectors](./Vectors)
--# Includes all the vectors I use in my videos, plus extra assets.
+Start here:
 
-- [Gui Components](./GUI)
-- [Textures](./Textures/)
+1. [All Vectors](./Vectors)  
+   Includes all the vectors I use in my videos, plus extra assets.
 
-### Download a single item (recommended)
-1. Click any asset file in **Latest Assets** above (it will open the file page).
-2. Click the **three dots (⋯)** on the top-right.
-3. Click **Download**.
-4. The file will save to your computer (usually in your **Downloads** folder).
+2. [Gui Components](./GUI)  
+   A collection of GUI-related assets and components.
 
-### Optional: Download everything (ZIP)
-If you want all assets in one download:
+3. [Textures](./Textures/)  
+   Browse texture files and texture-based assets.
+
+## Latest Files
+
+If you're looking for the newest uploads, check these first:
+
+1. [All Vectors](./Vectors)
+2. [Gui Components](./GUI)
+3. [Textures](./Textures/)
+
+## How to Download One File
+
+1. Open any folder above.
+2. Click the file you want to download.
+3. Click the **three dots (⋯)** in the top-right corner.
+4. Select **Download**.
+5. The file will usually save to your **Downloads** folder.
+
+## Download Everything
+
+If you want to download the full repository instead:
+
 1. Click the green **Code** button.
-2. Click **Download ZIP**.
-3. Unzip/extract it, then open the folder to find the assets you want.
+2. Select **Download ZIP**.
+3. Extract the ZIP file.
+4. Open the extracted folder and browse the assets you want.
 
-**Tip:** If you don’t see **Download**, make sure you’re on the asset’s file page (not the README).
+
+## Tips
+
+- If you do not see a **Download** option, make sure you opened the actual file page first.
+- Downloading a single file is usually better if you only need one asset.
+- Download the ZIP if you want everything at once.
+- If a folder opens instead of a file, just click again until you reach the specific item you want.
