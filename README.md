@@ -7,8 +7,8 @@ This is where I upload UI-related downloads for my YouTube channel — mostly PN
 ## Latest Assets
 Click any file name below to open it:
 
-- [Currencies](./vectors/currencies) 
-- [Skull Vectors](./vectors/skulls)
+- [All Vectors](./Vectors)
+-# This has all the Vectors I use in my Videos + More :o
 - [GUI](./GUI)
 - [Studs.png](./Textures/Studs.png)
 
