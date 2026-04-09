@@ -19,7 +19,7 @@ Start here:
 
 If you're looking for the newest uploads, check these first:
 
-1. [Gem Vectors](./Vectors/Gems/) + [Coin Vector](/Vectors/Coins/) + [Movie Clapper Vector](./Vectors/Movie%20Clapper/) + [Star Vectors](./Vectors/Stars/)
+1. [Gem Vectors](./Vectors/Gems/) + [Coin Vector](/Vectors/Coins/) + [Star Vectors](./Vectors/Stars/)
 2. [Skull Vectors](./Vectors/Skulls/)
 3. [Gui Components](./GUI/)
 4. [Studs Texture](./Textures/Studs.png)
