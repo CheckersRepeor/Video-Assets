@@ -2,7 +2,7 @@
 
 Welcome to **RoXplode's UI Assets Repo**.
 
-This repository contains UI-related downloads for my YouTube channel, including PNG assets such as icons, UI elements, overlays, thumbnails, and other similar resources.
+This repository contains textures, UI components, and game vectors that I use in my videos and share for others to download.
 
 ## Browse Assets
 
