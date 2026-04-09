@@ -7,6 +7,7 @@ This is where I upload UI-related downloads for my YouTube channel — mostly PN
 ## Latest Assets
 Click any file name below to open it:
 
+- [Skull Vectors](./Vectors/Skulls)
 - [GUI](./GUI)
 - [Studs.png](./Textures/Studs.png)
 
