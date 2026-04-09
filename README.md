@@ -10,10 +10,8 @@ Start here:
 
 1. [All Vectors](./Vectors)  
    Includes all the vectors I use in my videos, plus extra assets.
-
 2. [Gui Components](./GUI)  
    A collection of GUI-related assets and components.
-
 3. [Textures](./Textures/)  
    Browse texture files and texture-based assets.
 
@@ -21,9 +19,10 @@ Start here:
 
 If you're looking for the newest uploads, check these first:
 
-1. [All Vectors](./Vectors)
-2. [Gui Components](./GUI)
-3. [Textures](./Textures/)
+1. [Gem Vectors](./Vectors/Gems/) + [Coin Vector](/Vectors/Coins/) + [Movie Clapper Vector](./Vectors/Movie%20Clapper/)
+2. [Skull Vectors](./Vectors/Skulls/)
+3. [Gui Components](./GUI/)
+4. [Studs Texture](./Textures/Studs.png)
 
 ## How to Download One File
 
